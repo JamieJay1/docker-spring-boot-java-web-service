@@ -6,7 +6,7 @@ a complete web service example with Spring Boot, you can check out my other repo
 which is [spring-boot-restful-web-service-example
 ](https://github.com/bzdgn/spring-boot-restful-web-service-example).
 
-TOC
+TOC - TOC
 ---
 - [0 Spring Boot Web Service](#0-spring-boot-web-service) <br/>
 - [1 Dockerfile](#1-dockerfile)
