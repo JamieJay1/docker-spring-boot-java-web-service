@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git credentialsId: 'GitHub_Jay', url: 'https://github.com/JamieJay1/docker-spring-boot-java-web-service.git', branch: 'main'
+                git credentialsId: 'GitHub_Jay', url: 'https://github.com/JamieJay1/docker-spring-boot-java-web-service.git', branch: 'master'
             }
         }
 
